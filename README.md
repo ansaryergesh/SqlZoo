@@ -1,0 +1,2 @@
+# SqlZoo
+SQL basic
